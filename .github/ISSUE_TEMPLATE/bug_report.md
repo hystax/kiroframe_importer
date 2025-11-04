@@ -27,6 +27,8 @@ If applicable, add screenshots to help explain your problem.
  - Cloud and/or service [e.g. AWS EC2]
  - OS: [e.g. Ubuntu 20.04]
  - Python version [e.g. 3.10.13]
+ - MLFlow version [e.g. 3.3.0]
+ - (would be great) list of Python packages in venv
 
 **Additional context**
 Add any other context about the problem here.
